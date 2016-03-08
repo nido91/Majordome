@@ -1,0 +1,2 @@
+cd  /home/pi/Majordome/MJDcontrol/MJDcapture/capture/capture$1
+python capture.py
