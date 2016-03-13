@@ -1,4 +1,4 @@
 date
-python /home/pi/Majordome/MJDcde/SendMailPublicIP.py
+python /home/pi/Majordome/MJDprg/SendMailPublicIP.py
 
 
