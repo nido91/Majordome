@@ -1,0 +1,14 @@
+total 11
+-rwxr-xr-x 1 cig 197121  91 mars  15 09:37 delcapture*
+-rw-r--r-- 1 cig 197121  53 mars  15 09:37 IsCameraRunning
+-rw-r--r-- 1 cig 197121 579 mars  15 09:37 IsCameraRunning.py
+-rw-r--r-- 1 cig 197121   0 mars  15 09:44 nido91.lis
+-rw-r--r-- 1 cig 197121   0 mars  15 09:43 nido91.txt
+-rw-r--r-- 1 cig 197121  83 mars  15 09:37 PHOTODAY
+-rw-r--r-- 1 cig 197121 189 mars  15 09:37 photoday.py
+-rw-r--r-- 1 cig 197121  64 mars  15 09:37 SendMailPublicIP
+-rw-r--r-- 1 cig 197121 515 mars  15 09:37 SendMailPublicIP.py
+-rw-r--r-- 1 cig 197121  53 mars  15 09:37 SendStartCamera
+-rw-r--r-- 1 cig 197121 576 mars  15 09:37 SendStartCamera.py
+-rw-r--r-- 1 cig 197121  52 mars  15 09:37 SendStopCamera
+-rw-r--r-- 1 cig 197121 575 mars  15 09:37 SendStopCamera.py
