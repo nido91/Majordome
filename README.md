@@ -1,2 +1,2 @@
 # Majordome
-essai
+mise à jour de l'avatar
