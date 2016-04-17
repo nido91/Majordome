@@ -1,6 +1,6 @@
 # Majordome
 Evolution faite le 16/04/2016 par nido91
-ajout des fonctions delcaptureYesterdays.py, delcaptureTodays.py, delcaptureTomorrows.py et testfevrier.py
+ajout des fonctions delcaptureYesterday.py, delcaptureToday.py, delcaptureTomorrow.py et testfevrier.py
 ces fonctions permettent de ce positionner dans le répertoire capture(jour-1), capture(jour) et capture(jour+1)
 afin d'effacer les .jpg à une heure fixe commandée par crontab
 
@@ -8,7 +8,7 @@ Fonctionnement:
 A: mettre les 3 prg dans le répertoire MJDcde
 B: en fonction du choix du jour créer une commande : delcaptureTomorrow pour effacement du lendemain par ex
    #!/bin/bash
-   cd /home/pi/Majordome/MJDcde
+   cd /home/pi/Majordome/MJDprg
    python delcaptureTomorrow.py
 C: la rendre executable $ chmod +x delcaptureTomorrow
 D: création d'un lien symbolique
